@@ -1,0 +1,36 @@
+[
+  {
+    "id": 0,
+    "name": "Speech Therapist",
+    "picture": "images/icon.jpeg",
+    "age": 3,
+    "breed": 3000,
+    "location": "Lisco, Alabama"
+  },
+  {
+    "id": 1,
+    "name": "Language Therapist",
+    "picture": "images/icon.jpeg",
+    "age": 3,
+    "breed": 1000,
+    "location": "Tooleville, West Virginia"
+  },
+  {
+    "id": 2,
+    "name": "Physiotherapist",
+    "picture": "images/icon.jpeg",
+    "age": 2,
+    "breed": 1500,
+    "location": "Freeburn, Idaho"
+  },
+  {
+    "id": 3,
+    "name": "Occupational Therapist",
+    "picture": "images/icon.jpeg",
+    "age": 2,
+    "breed": 2000,
+    "location": "Camas, Pennsylvania"
+  }
+
+
+]
